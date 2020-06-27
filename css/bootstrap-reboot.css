@@ -126,6 +126,7 @@ a {
   color: #007bff;
   text-decoration: none;
   background-color: transparent;
+  display: disabled;
 }
 
 a:hover {
